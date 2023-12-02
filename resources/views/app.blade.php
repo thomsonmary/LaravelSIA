@@ -18,4 +18,5 @@
     <body class="font-sans antialiased">
         @inertia
     </body>
+    <h1>EDIT 1</h1>
 </html>
